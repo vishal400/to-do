@@ -1,6 +1,6 @@
-# Calculator React App
+# ToDo React App
 
-This is a simple todo app built with React. You can try it out [here](https://calculator-delta-ten-36.vercel.app/).
+This is a simple todo app built with React. You can try it out [here](https://to-do-orcin-tau.vercel.app/).
 
 ## About the Project
 
